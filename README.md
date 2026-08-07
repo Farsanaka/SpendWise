@@ -24,8 +24,11 @@ with graphs.
 
 \`\`\`bash
 git clone https://github.com/Farsanaka-Edstem/SpendWise
+
 cd spendwise
+
 pnpm install
+
 pnpm dev
 \`\`\`
 
