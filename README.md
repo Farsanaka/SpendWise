@@ -23,7 +23,7 @@ with graphs.
 ## How to run locally
 
 \`\`\`bash
-git clone https://github.com/yourusername/spendwise.git
+git clone https://github.com/Farsanaka-Edstem/SpendWise
 cd spendwise
 pnpm install
 pnpm dev
